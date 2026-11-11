@@ -26,7 +26,7 @@ This page provides a video recording of the Map and Data Library's workshop on c
 
 **Who:** This workshop is primarily designed for NVivo users who are new to MAXQDA. 
 
-**How:** This is a 2-hour **online** session (but a shorter recording time due to activity breaks), consisting of a lecture and demonstrations, highlighting key similarities and differences between the two tools. *Note that this is NOT a hands-on workshop. If you would like hands-on training on using either tool, visit our other [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo&series=MDL+Workshops) and [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA&series=MDL+Workshops) workshops.*
+**How:** This is an **online** session, consisting of a lecture and demonstrations, highlighting key similarities and differences between the two tools. *Note that this is NOT a hands-on workshop. If you would like hands-on training on using either tool, visit our other [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo&series=MDL+Workshops) and [MAXQDA](https://mdlutoronto.github.io/tutorials-search/?tool=MAXQDA&series=MDL+Workshops) workshops.*
 
 [**Recording - 1:20:00**](https://play.library.utoronto.ca/watch/bec038d36d975fb41e1e303095126d37)
 
